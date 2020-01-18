@@ -3,7 +3,7 @@
 #
 # MIT License
 #
-# Copyright (c) 2018 Jianshen Liu
+# Copyright (c) 2020 Jianshen Liu<jliu120@ucsc.edu>
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -39,6 +39,7 @@ import datetime
 import json
 import re
 import os
+import statistics
 
 
 def __get_round_idx(filename):
@@ -155,37 +156,45 @@ def main():
 
     steady_state_round_idxes = sorted(
         round_data.keys())[-STEADY_STATE_WINDOW_SIZE:]
-    if len(steady_state_round_idxes) < 3:
+    if len(steady_state_round_idxes) < STEADY_STATE_WINDOW_SIZE:
         raise RuntimeError(("Found total {:d} rounds of data, "
                             "but need {:d} to evaluate steady state.").format(
                                 len(steady_state_round_idxes),
                                 STEADY_STATE_WINDOW_SIZE))
 
-    sum_ycsb_throughput = 0
-    sum_device_ios = 0
-    sum_device_mbs = 0  # throughput in MiB/s
+    list_ycsb_throughputs = []
+    list_device_ios = []
+    list_device_mbs = []  # throughputs in MiB/s
 
     for round_idx in steady_state_round_idxes:
         round_data_at_idx = round_data[round_idx]
 
-        sum_ycsb_throughput += round_data_at_idx[KEY_YCSB_THROUGHPUT]
+        list_ycsb_throughputs.append(round_data_at_idx[KEY_YCSB_THROUGHPUT])
 
         duration_in_seconds = (
             round_data_at_idx[KEY_END_TIME] -
             round_data_at_idx[KEY_START_TIME]).total_seconds()
 
-        sum_device_ios += round_data_at_idx[
-            KEY_DEVICE_IOS] / duration_in_seconds
-        sum_device_mbs += round_data_at_idx[
-            KEY_DEVICE_SECTORS] * 512 / 1024 / 1024 / duration_in_seconds
+        list_device_ios.append(round_data_at_idx[KEY_DEVICE_IOS] /
+                               duration_in_seconds)
+        list_device_mbs.append(round_data_at_idx[KEY_DEVICE_SECTORS] * 512 /
+                               1024 / 1024 / duration_in_seconds)
 
     print(
         json.dumps(
             {
-                KEY_YCSB_THROUGHPUT:
-                sum_ycsb_throughput / STEADY_STATE_WINDOW_SIZE,
-                KEY_DEVICE_IOS: sum_device_ios / STEADY_STATE_WINDOW_SIZE,
-                KEY_DEVICE_MBS: sum_device_mbs / STEADY_STATE_WINDOW_SIZE
+                KEY_YCSB_THROUGHPUT: {
+                    'mean': statistics.mean(list_ycsb_throughputs),
+                    'stdev': statistics.pstdev(list_ycsb_throughputs)
+                },
+                KEY_DEVICE_IOS: {
+                    'mean': statistics.mean(list_device_ios),
+                    'stdev': statistics.pstdev(list_device_ios)
+                },
+                KEY_DEVICE_MBS: {
+                    'mean': statistics.mean(list_device_mbs),
+                    'stdev': statistics.pstdev(list_device_mbs)
+                }
             },
             sort_keys=True,
             indent=2))
