@@ -30,7 +30,7 @@ Do NOT use this script on a folder that contains results from different
 numbers of threads.
 
 Example:
-   $ ./get_thread_data.py ../analysis/data/ycsb/data/myworkload_2_threads
+   $ ./get_thread_data.py ../data/ycsb/myworkloada/THNSNJ128G8NU/MBWU/2_threads
 
 """
 
@@ -180,24 +180,23 @@ def main():
         list_device_mbs.append(round_data_at_idx[KEY_DEVICE_SECTORS] * 512 /
                                1024 / 1024 / duration_in_seconds)
 
-    print(
-        json.dumps(
-            {
-                KEY_YCSB_THROUGHPUT: {
-                    'mean': statistics.mean(list_ycsb_throughputs),
-                    'stdev': statistics.pstdev(list_ycsb_throughputs)
-                },
-                KEY_DEVICE_IOS: {
-                    'mean': statistics.mean(list_device_ios),
-                    'stdev': statistics.pstdev(list_device_ios)
-                },
-                KEY_DEVICE_MBS: {
-                    'mean': statistics.mean(list_device_mbs),
-                    'stdev': statistics.pstdev(list_device_mbs)
-                }
+    print(json.dumps(
+        {
+            KEY_YCSB_THROUGHPUT: {
+                'mean': statistics.mean(list_ycsb_throughputs),
+                'stdev': statistics.pstdev(list_ycsb_throughputs)
             },
-            sort_keys=True,
-            indent=2))
+            KEY_DEVICE_IOS: {
+                'mean': statistics.mean(list_device_ios),
+                'stdev': statistics.pstdev(list_device_ios)
+            },
+            KEY_DEVICE_MBS: {
+                'mean': statistics.mean(list_device_mbs),
+                'stdev': statistics.pstdev(list_device_mbs)
+            }
+        },
+        sort_keys=True,
+        indent=2))
 
 
 if __name__ == "__main__":
