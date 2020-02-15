@@ -1,0 +1,3834 @@
+[2020-02-14T18:35:25-08:00]
+rchar: 16584908
+wchar: 209
+syscr: 2826
+syscw: 10
+read_bytes: 712704
+write_bytes: 53248
+cancelled_write_bytes: 0
+
+[2020-02-14T18:35:28-08:00]
+rchar: 16584908
+wchar: 209
+syscr: 2826
+syscw: 10
+read_bytes: 712704
+write_bytes: 53248
+cancelled_write_bytes: 0
+
+[2020-02-14T18:35:31-08:00]
+rchar: 16584908
+wchar: 209
+syscr: 2826
+syscw: 10
+read_bytes: 712704
+write_bytes: 53248
+cancelled_write_bytes: 0
+
+[2020-02-14T18:35:34-08:00]
+rchar: 16584908
+wchar: 209
+syscr: 2826
+syscw: 10
+read_bytes: 712704
+write_bytes: 53248
+cancelled_write_bytes: 0
+
+[2020-02-14T18:35:37-08:00]
+rchar: 16584908
+wchar: 209
+syscr: 2826
+syscw: 10
+read_bytes: 712704
+write_bytes: 61440
+cancelled_write_bytes: 0
+
+[2020-02-14T18:35:40-08:00]
+rchar: 16584908
+wchar: 209
+syscr: 2826
+syscw: 10
+read_bytes: 712704
+write_bytes: 61440
+cancelled_write_bytes: 0
+
+[2020-02-14T18:35:43-08:00]
+rchar: 16584908
+wchar: 209
+syscr: 2826
+syscw: 10
+read_bytes: 712704
+write_bytes: 77824
+cancelled_write_bytes: 0
+
+[2020-02-14T18:35:46-08:00]
+rchar: 16584908
+wchar: 209
+syscr: 2826
+syscw: 10
+read_bytes: 712704
+write_bytes: 77824
+cancelled_write_bytes: 0
+
+[2020-02-14T18:35:49-08:00]
+rchar: 16584908
+wchar: 209
+syscr: 2826
+syscw: 10
+read_bytes: 712704
+write_bytes: 86016
+cancelled_write_bytes: 0
+
+[2020-02-14T18:35:52-08:00]
+rchar: 26260026
+wchar: 8275336
+syscr: 12996
+syscw: 1261
+read_bytes: 23627264
+write_bytes: 8388608
+cancelled_write_bytes: 0
+
+[2020-02-14T18:35:55-08:00]
+rchar: 204505870
+wchar: 144000500
+syscr: 56205
+syscw: 5178
+read_bytes: 289798656
+write_bytes: 144166912
+cancelled_write_bytes: 0
+
+[2020-02-14T18:35:58-08:00]
+rchar: 413741570
+wchar: 250064022
+syscr: 134987
+syscw: 20074
+read_bytes: 575732224
+write_bytes: 250257408
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:01-08:00]
+rchar: 473696961
+wchar: 396391308
+syscr: 157569
+syscw: 27322
+read_bytes: 649370112
+write_bytes: 396636160
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:04-08:00]
+rchar: 597319988
+wchar: 515937607
+syscr: 203129
+syscw: 42668
+read_bytes: 786778624
+write_bytes: 516268032
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:07-08:00]
+rchar: 752767258
+wchar: 671028643
+syscr: 260137
+syscw: 52970
+read_bytes: 978094592
+write_bytes: 671506432
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:10-08:00]
+rchar: 918777706
+wchar: 835707475
+syscr: 318543
+syscw: 61516
+read_bytes: 1172531712
+write_bytes: 836222976
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:13-08:00]
+rchar: 1135290537
+wchar: 1048990928
+syscr: 396653
+syscw: 75818
+read_bytes: 1432414720
+write_bytes: 1049538560
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:16-08:00]
+rchar: 1240066433
+wchar: 1167593649
+syscr: 434757
+syscw: 83441
+read_bytes: 1553967616
+write_bytes: 1168338944
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:19-08:00]
+rchar: 1291466108
+wchar: 1238628769
+syscr: 455320
+syscw: 90629
+read_bytes: 1618377216
+write_bytes: 1239658496
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:22-08:00]
+rchar: 1408637555
+wchar: 1326899903
+syscr: 498597
+syscw: 97977
+read_bytes: 1753528832
+write_bytes: 1328111616
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:25-08:00]
+rchar: 1489994486
+wchar: 1420942259
+syscr: 529723
+syscw: 105176
+read_bytes: 1850087936
+write_bytes: 1422462976
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:28-08:00]
+rchar: 1551592313
+wchar: 1493647708
+syscr: 554758
+syscw: 112730
+read_bytes: 1924573696
+write_bytes: 1495453696
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:31-08:00]
+rchar: 1603225796
+wchar: 1525700995
+syscr: 575200
+syscw: 119118
+read_bytes: 1984760320
+write_bytes: 1527750656
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:34-08:00]
+rchar: 1698099577
+wchar: 1618273563
+syscr: 613924
+syscw: 126470
+read_bytes: 2096196096
+write_bytes: 1620643840
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:37-08:00]
+rchar: 1756147915
+wchar: 1688720277
+syscr: 637354
+syscw: 133746
+read_bytes: 2165111296
+write_bytes: 1691357184
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:40-08:00]
+rchar: 2003431436
+wchar: 1847105767
+syscr: 730310
+syscw: 143426
+read_bytes: 2434173440
+write_bytes: 1849872384
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:43-08:00]
+rchar: 2252578326
+wchar: 1978749431
+syscr: 816379
+syscw: 147379
+read_bytes: 2663156224
+write_bytes: 1982058496
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:46-08:00]
+rchar: 2419445741
+wchar: 2127620445
+syscr: 868426
+syscw: 149331
+read_bytes: 2823842304
+write_bytes: 2131386368
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:49-08:00]
+rchar: 2543328582
+wchar: 2352928872
+syscr: 907185
+syscw: 150910
+read_bytes: 2943035904
+write_bytes: 2356973568
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:52-08:00]
+rchar: 2721913940
+wchar: 2520185305
+syscr: 963054
+syscw: 152917
+read_bytes: 3114461696
+write_bytes: 2524504064
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:55-08:00]
+rchar: 2946841669
+wchar: 2705968895
+syscr: 1033205
+syscw: 155461
+read_bytes: 3330456064
+write_bytes: 2710392832
+cancelled_write_bytes: 0
+
+[2020-02-14T18:36:58-08:00]
+rchar: 3173149668
+wchar: 2958155063
+syscr: 1104207
+syscw: 158786
+read_bytes: 3547441664
+write_bytes: 2962685952
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:01-08:00]
+rchar: 3382937290
+wchar: 3190444353
+syscr: 1170095
+syscw: 161921
+read_bytes: 3748956672
+write_bytes: 3195101184
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:04-08:00]
+rchar: 3600464213
+wchar: 3445798094
+syscr: 1239062
+syscw: 166015
+read_bytes: 3957414400
+write_bytes: 3450568704
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:07-08:00]
+rchar: 3833337064
+wchar: 3706395984
+syscr: 1312519
+syscw: 170010
+read_bytes: 4181101056
+write_bytes: 3711205376
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:10-08:00]
+rchar: 4026016327
+wchar: 3888082416
+syscr: 1374114
+syscw: 174090
+read_bytes: 4366072320
+write_bytes: 3893116928
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:13-08:00]
+rchar: 4259443695
+wchar: 4129246786
+syscr: 1449196
+syscw: 179975
+read_bytes: 4592413184
+write_bytes: 4134395904
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:16-08:00]
+rchar: 4355033092
+wchar: 4224441317
+syscr: 1480318
+syscw: 182977
+read_bytes: 4684311040
+write_bytes: 4229791744
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:19-08:00]
+rchar: 4641955699
+wchar: 4470533238
+syscr: 1571533
+syscw: 188439
+read_bytes: 4954049024
+write_bytes: 4482150400
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:22-08:00]
+rchar: 4830039520
+wchar: 4674816174
+syscr: 1632152
+syscw: 193921
+read_bytes: 5131143680
+write_bytes: 4680376320
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:25-08:00]
+rchar: 5064478604
+wchar: 4911759079
+syscr: 1707098
+syscw: 198948
+read_bytes: 5349693952
+write_bytes: 4917362688
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:28-08:00]
+rchar: 5432945614
+wchar: 5229846778
+syscr: 1825087
+syscw: 206887
+read_bytes: 5692017152
+write_bytes: 5235486720
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:31-08:00]
+rchar: 5534095733
+wchar: 5359305590
+syscr: 1857973
+syscw: 210281
+read_bytes: 5784787456
+write_bytes: 5365116928
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:34-08:00]
+rchar: 5855832510
+wchar: 5619298415
+syscr: 1962071
+syscw: 218668
+read_bytes: 6081178112
+write_bytes: 5625221120
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:37-08:00]
+rchar: 6058192320
+wchar: 5838452885
+syscr: 2027319
+syscw: 223614
+read_bytes: 6265453056
+write_bytes: 5844545536
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:40-08:00]
+rchar: 6157621371
+wchar: 5968966988
+syscr: 2060111
+syscw: 227227
+read_bytes: 6355536384
+write_bytes: 5975236608
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:43-08:00]
+rchar: 6521653576
+wchar: 6278782259
+syscr: 2178191
+syscw: 235110
+read_bytes: 6682438144
+write_bytes: 6285090816
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:46-08:00]
+rchar: 6666485479
+wchar: 6440622395
+syscr: 2226128
+syscw: 241031
+read_bytes: 6809868800
+write_bytes: 6447161344
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:49-08:00]
+rchar: 6744616088
+wchar: 6520829527
+syscr: 2253287
+syscw: 246280
+read_bytes: 6875494912
+write_bytes: 6527709184
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:52-08:00]
+rchar: 6939275324
+wchar: 6670616814
+syscr: 2319410
+syscw: 253330
+read_bytes: 7039871488
+write_bytes: 6677614592
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:55-08:00]
+rchar: 7272546817
+wchar: 6942894458
+syscr: 2431227
+syscw: 261672
+read_bytes: 7324621312
+write_bytes: 6949986304
+cancelled_write_bytes: 0
+
+[2020-02-14T18:37:58-08:00]
+rchar: 7360559996
+wchar: 7045028782
+syscr: 2461353
+syscw: 266594
+read_bytes: 7395428864
+write_bytes: 7052361728
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:01-08:00]
+rchar: 7640217516
+wchar: 7279759388
+syscr: 2554296
+syscw: 274082
+read_bytes: 7625595392
+write_bytes: 7287136256
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:04-08:00]
+rchar: 7959095426
+wchar: 7532821544
+syscr: 2661113
+syscw: 282298
+read_bytes: 7885889024
+write_bytes: 7540523008
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:07-08:00]
+rchar: 8083887919
+wchar: 7662044769
+syscr: 2705686
+syscw: 287586
+read_bytes: 7988882944
+write_bytes: 7670083584
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:10-08:00]
+rchar: 8345654451
+wchar: 7894472670
+syscr: 2796307
+syscw: 294633
+read_bytes: 8208317952
+write_bytes: 7902556160
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:13-08:00]
+rchar: 8631307244
+wchar: 8135093777
+syscr: 2895418
+syscw: 302652
+read_bytes: 8448003584
+write_bytes: 8143228928
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:16-08:00]
+rchar: 8791096882
+wchar: 8311877925
+syscr: 2952225
+syscw: 310792
+read_bytes: 8574832128
+write_bytes: 8320200704
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:19-08:00]
+rchar: 9088230534
+wchar: 8531561650
+syscr: 3053066
+syscw: 317476
+read_bytes: 8811339264
+write_bytes: 8539922432
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:22-08:00]
+rchar: 9474667093
+wchar: 8832713567
+syscr: 3185520
+syscw: 326398
+read_bytes: 9115954688
+write_bytes: 8841129984
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:25-08:00]
+rchar: 9727428285
+wchar: 9080421789
+syscr: 3272448
+syscw: 333489
+read_bytes: 9307508224
+write_bytes: 9088884736
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:28-08:00]
+rchar: 9969473029
+wchar: 9275755121
+syscr: 3356403
+syscw: 341414
+read_bytes: 9485086208
+write_bytes: 9284284416
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:31-08:00]
+rchar: 10039193291
+wchar: 9340613376
+syscr: 3382249
+syscw: 347432
+read_bytes: 9528528384
+write_bytes: 9349300224
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:34-08:00]
+rchar: 10128610705
+wchar: 9412612163
+syscr: 3415209
+syscw: 354918
+read_bytes: 9583263232
+write_bytes: 9421479936
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:37-08:00]
+rchar: 10248937159
+wchar: 9467235219
+syscr: 3459579
+syscw: 364048
+read_bytes: 9656303104
+write_bytes: 9476591616
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:40-08:00]
+rchar: 10333225894
+wchar: 9536979453
+syscr: 3490071
+syscw: 370406
+read_bytes: 9706286592
+write_bytes: 9546514432
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:43-08:00]
+rchar: 10453330172
+wchar: 9621863423
+syscr: 3534559
+syscw: 378146
+read_bytes: 9778593280
+write_bytes: 9631637504
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:46-08:00]
+rchar: 10562999020
+wchar: 9704249188
+syscr: 3575217
+syscw: 384690
+read_bytes: 9847434752
+write_bytes: 9714253824
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:49-08:00]
+rchar: 10806475606
+wchar: 9827459380
+syscr: 3662210
+syscw: 394544
+read_bytes: 10023419392
+write_bytes: 9858666496
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:52-08:00]
+rchar: 11037359669
+wchar: 10065712979
+syscr: 3743887
+syscw: 403826
+read_bytes: 10194259456
+write_bytes: 10076037120
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:55-08:00]
+rchar: 11114121845
+wchar: 10136578944
+syscr: 3773010
+syscw: 410244
+read_bytes: 10244357632
+write_bytes: 10147119104
+cancelled_write_bytes: 0
+
+[2020-02-14T18:38:58-08:00]
+rchar: 11224028431
+wchar: 10187517873
+syscr: 3814775
+syscw: 418165
+read_bytes: 10314673664
+write_bytes: 10198343680
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:01-08:00]
+rchar: 11387886012
+wchar: 10317204117
+syscr: 3874550
+syscw: 427661
+read_bytes: 10429566464
+write_bytes: 10328330240
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:04-08:00]
+rchar: 11530907399
+wchar: 10469522737
+syscr: 3926524
+syscw: 435779
+read_bytes: 10531257856
+write_bytes: 10480816128
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:07-08:00]
+rchar: 11618328184
+wchar: 10510526445
+syscr: 3960024
+syscw: 443389
+read_bytes: 10587831808
+write_bytes: 10522058752
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:10-08:00]
+rchar: 11701181536
+wchar: 10584504483
+syscr: 3992000
+syscw: 449520
+read_bytes: 10642202112
+write_bytes: 10596257792
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:14-08:00]
+rchar: 11922213300
+wchar: 10713604258
+syscr: 4073757
+syscw: 459343
+read_bytes: 10798571008
+write_bytes: 10725621760
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:17-08:00]
+rchar: 11986555088
+wchar: 10814138693
+syscr: 4098746
+syscw: 465688
+read_bytes: 10841517568
+write_bytes: 10826354688
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:20-08:00]
+rchar: 12114815691
+wchar: 10891841312
+syscr: 4148603
+syscw: 475613
+read_bytes: 10925268480
+write_bytes: 10904412160
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:23-08:00]
+rchar: 12200637772
+wchar: 10984059065
+syscr: 4181831
+syscw: 482763
+read_bytes: 10981092864
+write_bytes: 10996875264
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:26-08:00]
+rchar: 12295370244
+wchar: 11030528246
+syscr: 4218093
+syscw: 490016
+read_bytes: 11041631744
+write_bytes: 11043647488
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:29-08:00]
+rchar: 12429292119
+wchar: 11125863277
+syscr: 4268523
+syscw: 498591
+read_bytes: 11123564032
+write_bytes: 11139268608
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:32-08:00]
+rchar: 12543774294
+wchar: 11212857223
+syscr: 4312243
+syscw: 507799
+read_bytes: 11196153344
+write_bytes: 11226521600
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:35-08:00]
+rchar: 12659418960
+wchar: 11299722517
+syscr: 4356350
+syscw: 515752
+read_bytes: 11268513280
+write_bytes: 11313655808
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:38-08:00]
+rchar: 12773366880
+wchar: 11386879733
+syscr: 4400061
+syscw: 524282
+read_bytes: 11341368832
+write_bytes: 11401134080
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:41-08:00]
+rchar: 12880313008
+wchar: 11471262817
+syscr: 4440878
+syscw: 532771
+read_bytes: 11411004928
+write_bytes: 11485749248
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:44-08:00]
+rchar: 13024909814
+wchar: 11540021076
+syscr: 4496414
+syscw: 542520
+read_bytes: 11503574528
+write_bytes: 11554869248
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:47-08:00]
+rchar: 13118260312
+wchar: 11652356123
+syscr: 4532263
+syscw: 550586
+read_bytes: 11565010432
+write_bytes: 11667427328
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:50-08:00]
+rchar: 13264909363
+wchar: 11719682739
+syscr: 4588788
+syscw: 560160
+read_bytes: 11656506880
+write_bytes: 11735080960
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:53-08:00]
+rchar: 13343582066
+wchar: 11791759613
+syscr: 4618857
+syscw: 567167
+read_bytes: 11708050944
+write_bytes: 11807404032
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:56-08:00]
+rchar: 13464385759
+wchar: 11883435536
+syscr: 4665115
+syscw: 575557
+read_bytes: 11784400384
+write_bytes: 11899383808
+cancelled_write_bytes: 0
+
+[2020-02-14T18:39:59-08:00]
+rchar: 13559088183
+wchar: 11963793479
+syscr: 4701418
+syscw: 583546
+read_bytes: 11845107200
+write_bytes: 11980038144
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:02-08:00]
+rchar: 13676937780
+wchar: 12053504477
+syscr: 4746955
+syscw: 592793
+read_bytes: 11919060480
+write_bytes: 12070088704
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:05-08:00]
+rchar: 13779566804
+wchar: 12136044350
+syscr: 4786453
+syscw: 600831
+read_bytes: 11984899584
+write_bytes: 12152868864
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:08-08:00]
+rchar: 14012007435
+wchar: 12281940691
+syscr: 4870015
+syscw: 609574
+read_bytes: 12148231680
+write_bytes: 12298932224
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:11-08:00]
+rchar: 14121814202
+wchar: 12402356844
+syscr: 4912027
+syscw: 617816
+read_bytes: 12217814528
+write_bytes: 12419653632
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:14-08:00]
+rchar: 14226884693
+wchar: 12487106642
+syscr: 4952038
+syscw: 627052
+read_bytes: 12283096576
+write_bytes: 12504657920
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:17-08:00]
+rchar: 14381302649
+wchar: 12557773839
+syscr: 5010742
+syscw: 636472
+read_bytes: 12376796672
+write_bytes: 12575637504
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:20-08:00]
+rchar: 14473961983
+wchar: 12668538839
+syscr: 5046223
+syscw: 644196
+read_bytes: 12434206208
+write_bytes: 12686655488
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:23-08:00]
+rchar: 14603627064
+wchar: 12727822336
+syscr: 5095878
+syscw: 653817
+read_bytes: 12512759296
+write_bytes: 12746240000
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:26-08:00]
+rchar: 14717071982
+wchar: 12814158589
+syscr: 5139127
+syscw: 662474
+read_bytes: 12582104576
+write_bytes: 12832841728
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:29-08:00]
+rchar: 14821067989
+wchar: 12899424142
+syscr: 5178979
+syscw: 671537
+read_bytes: 12645051904
+write_bytes: 12918411264
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:32-08:00]
+rchar: 14943285824
+wchar: 12989557164
+syscr: 5226024
+syscw: 680537
+read_bytes: 12718464512
+write_bytes: 13008842752
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:35-08:00]
+rchar: 15037698856
+wchar: 13067905930
+syscr: 5262414
+syscw: 687764
+read_bytes: 12776259072
+write_bytes: 13087399936
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:38-08:00]
+rchar: 15183339104
+wchar: 13169819776
+syscr: 5318175
+syscw: 697598
+read_bytes: 12864261632
+write_bytes: 13189632000
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:41-08:00]
+rchar: 15277615340
+wchar: 13246693027
+syscr: 5354041
+syscw: 704589
+read_bytes: 12921089536
+write_bytes: 13266690048
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:44-08:00]
+rchar: 15406064635
+wchar: 13323454925
+syscr: 5402749
+syscw: 715095
+read_bytes: 12997193216
+write_bytes: 13343789056
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:47-08:00]
+rchar: 15531387098
+wchar: 13395435600
+syscr: 5450834
+syscw: 723414
+read_bytes: 13070302720
+write_bytes: 13416046592
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:50-08:00]
+rchar: 15622261902
+wchar: 13471703322
+syscr: 5485611
+syscw: 731849
+read_bytes: 13125086720
+write_bytes: 13492563968
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:53-08:00]
+rchar: 15778873620
+wchar: 13576371170
+syscr: 5545517
+syscw: 741173
+read_bytes: 13218106880
+write_bytes: 13597536256
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:56-08:00]
+rchar: 15873247048
+wchar: 13653377328
+syscr: 5581363
+syscw: 748402
+read_bytes: 13275885056
+write_bytes: 13674758144
+cancelled_write_bytes: 0
+
+[2020-02-14T18:40:59-08:00]
+rchar: 16010250080
+wchar: 13752377925
+syscr: 5633551
+syscw: 757551
+read_bytes: 13358931456
+write_bytes: 13774073856
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:02-08:00]
+rchar: 16120827581
+wchar: 13838507964
+syscr: 5675573
+syscw: 766178
+read_bytes: 13424524800
+write_bytes: 13860470784
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:05-08:00]
+rchar: 16218795449
+wchar: 13917457396
+syscr: 5713013
+syscw: 773721
+read_bytes: 13481049600
+write_bytes: 13939662848
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:08-08:00]
+rchar: 16351122170
+wchar: 14012380262
+syscr: 5763730
+syscw: 783507
+read_bytes: 13559979520
+write_bytes: 14034915328
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:11-08:00]
+rchar: 16465789604
+wchar: 14098564626
+syscr: 5807296
+syscw: 792323
+read_bytes: 13627702784
+write_bytes: 14121320448
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:14-08:00]
+rchar: 16602070053
+wchar: 14177725396
+syscr: 5859385
+syscw: 802204
+read_bytes: 13708541440
+write_bytes: 14200795136
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:17-08:00]
+rchar: 16722209418
+wchar: 14251959321
+syscr: 5904913
+syscw: 810793
+read_bytes: 13781306880
+write_bytes: 14275297280
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:20-08:00]
+rchar: 16839212548
+wchar: 14354503991
+syscr: 5948845
+syscw: 819795
+read_bytes: 13848047104
+write_bytes: 14378078208
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:23-08:00]
+rchar: 16994859526
+wchar: 14439799351
+syscr: 6007885
+syscw: 829377
+read_bytes: 13938490880
+write_bytes: 14463655936
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:26-08:00]
+rchar: 17096798647
+wchar: 14554063243
+syscr: 6046649
+syscw: 837393
+read_bytes: 13997288960
+write_bytes: 14578139136
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:29-08:00]
+rchar: 17248576806
+wchar: 14622380523
+syscr: 6103797
+syscw: 847005
+read_bytes: 14084292096
+write_bytes: 14646788096
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:32-08:00]
+rchar: 17357841667
+wchar: 14707285506
+syscr: 6145097
+syscw: 855082
+read_bytes: 14146838016
+write_bytes: 14731931648
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:35-08:00]
+rchar: 17473369667
+wchar: 14791798369
+syscr: 6188971
+syscw: 863594
+read_bytes: 14211141120
+write_bytes: 14816665600
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:38-08:00]
+rchar: 17631088682
+wchar: 14895405192
+syscr: 6248202
+syscw: 873812
+read_bytes: 14298525184
+write_bytes: 14920622080
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:41-08:00]
+rchar: 17736596902
+wchar: 14975565773
+syscr: 6288324
+syscw: 881176
+read_bytes: 14356622848
+write_bytes: 15001006080
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:44-08:00]
+rchar: 17874120070
+wchar: 15071727323
+syscr: 6340064
+syscw: 890064
+read_bytes: 14434840064
+write_bytes: 15097462784
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:47-08:00]
+rchar: 17992473363
+wchar: 15159157568
+syscr: 6384796
+syscw: 898334
+read_bytes: 14501776896
+write_bytes: 15185178624
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:50-08:00]
+rchar: 18097575210
+wchar: 15225086787
+syscr: 6424568
+syscw: 906679
+read_bytes: 14560763392
+write_bytes: 15251374080
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:53-08:00]
+rchar: 18233521899
+wchar: 15336569157
+syscr: 6475835
+syscw: 915512
+read_bytes: 14638640640
+write_bytes: 15363203072
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:56-08:00]
+rchar: 18351928951
+wchar: 15387879367
+syscr: 6520582
+syscw: 923852
+read_bytes: 14705081856
+write_bytes: 15414730752
+cancelled_write_bytes: 0
+
+[2020-02-14T18:41:59-08:00]
+rchar: 18495341082
+wchar: 15485287125
+syscr: 6574945
+syscw: 932381
+read_bytes: 14785965568
+write_bytes: 15512444928
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:02-08:00]
+rchar: 18614648068
+wchar: 15572915236
+syscr: 6619965
+syscw: 940512
+read_bytes: 14853406208
+write_bytes: 15600361472
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:05-08:00]
+rchar: 18717082576
+wchar: 15654269739
+syscr: 6658747
+syscw: 949392
+read_bytes: 14911557120
+write_bytes: 15681974272
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:08-08:00]
+rchar: 18890260690
+wchar: 15764330117
+syscr: 6724010
+syscw: 959222
+read_bytes: 15006273024
+write_bytes: 15792336896
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:11-08:00]
+rchar: 18998496933
+wchar: 15846530379
+syscr: 6764605
+syscw: 968250
+read_bytes: 15067053568
+write_bytes: 15874781184
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:14-08:00]
+rchar: 19173092062
+wchar: 15968244970
+syscr: 6828878
+syscw: 976847
+read_bytes: 15165763072
+write_bytes: 15996768256
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:17-08:00]
+rchar: 19296327855
+wchar: 16056420876
+syscr: 6875218
+syscw: 984956
+read_bytes: 15232142848
+write_bytes: 16085188608
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:20-08:00]
+rchar: 19406713801
+wchar: 16139879655
+syscr: 6917127
+syscw: 993647
+read_bytes: 15293844992
+write_bytes: 16168882176
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:23-08:00]
+rchar: 19580613327
+wchar: 16251866644
+syscr: 6982488
+syscw: 1003077
+read_bytes: 15388675584
+write_bytes: 16281178112
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:26-08:00]
+rchar: 19669395703
+wchar: 16325129929
+syscr: 7015755
+syscw: 1010470
+read_bytes: 15437475328
+write_bytes: 16354660352
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:29-08:00]
+rchar: 19811264908
+wchar: 16419691678
+syscr: 7068954
+syscw: 1020355
+read_bytes: 15511727616
+write_bytes: 16449515520
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:32-08:00]
+rchar: 19932570707
+wchar: 16505983511
+syscr: 7114713
+syscw: 1028929
+read_bytes: 15575076352
+write_bytes: 16536100864
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:35-08:00]
+rchar: 20046980099
+wchar: 16590439927
+syscr: 7157754
+syscw: 1038255
+read_bytes: 15636676096
+write_bytes: 16620781568
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:38-08:00]
+rchar: 20175440866
+wchar: 16665673312
+syscr: 7206376
+syscw: 1047391
+read_bytes: 15708216832
+write_bytes: 16696311808
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:41-08:00]
+rchar: 20311479388
+wchar: 16775901597
+syscr: 7257500
+syscw: 1056684
+read_bytes: 15778397696
+write_bytes: 16806838272
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:44-08:00]
+rchar: 20431852020
+wchar: 16861256305
+syscr: 7302595
+syscw: 1065887
+read_bytes: 15841091072
+write_bytes: 16892452864
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:47-08:00]
+rchar: 20589305831
+wchar: 16927481076
+syscr: 7361653
+syscw: 1075847
+read_bytes: 15923006976
+write_bytes: 16959000576
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:50-08:00]
+rchar: 20720602651
+wchar: 17016616394
+syscr: 7410573
+syscw: 1083490
+read_bytes: 15991074304
+write_bytes: 17048408064
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:53-08:00]
+rchar: 20842884942
+wchar: 17103908274
+syscr: 7456270
+syscw: 1093697
+read_bytes: 16055709184
+write_bytes: 17135923200
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:56-08:00]
+rchar: 21001950609
+wchar: 17207922902
+syscr: 7515696
+syscw: 1102960
+read_bytes: 16140877312
+write_bytes: 17240248320
+cancelled_write_bytes: 0
+
+[2020-02-14T18:42:59-08:00]
+rchar: 21105760323
+wchar: 17285167751
+syscr: 7554065
+syscw: 1110635
+read_bytes: 16193768960
+write_bytes: 17317740544
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:02-08:00]
+rchar: 21259581647
+wchar: 17381238310
+syscr: 7610699
+syscw: 1120259
+read_bytes: 16270663168
+write_bytes: 17414049792
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:05-08:00]
+rchar: 21448537477
+wchar: 17506332147
+syscr: 7679547
+syscw: 1129640
+read_bytes: 16371174912
+write_bytes: 17539428352
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:08-08:00]
+rchar: 21566788668
+wchar: 17590012022
+syscr: 7723563
+syscw: 1138267
+read_bytes: 16432565760
+write_bytes: 17623363584
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:11-08:00]
+rchar: 21689414164
+wchar: 17675925595
+syscr: 7769106
+syscw: 1147142
+read_bytes: 16494452224
+write_bytes: 17709539328
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:14-08:00]
+rchar: 21838638711
+wchar: 17776989452
+syscr: 7825273
+syscw: 1156989
+read_bytes: 16572952064
+write_bytes: 17810931712
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:17-08:00]
+rchar: 21957707683
+wchar: 17859518486
+syscr: 7869309
+syscw: 1163993
+read_bytes: 16630959616
+write_bytes: 17893625856
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:20-08:00]
+rchar: 22116071315
+wchar: 17959675606
+syscr: 7928169
+syscw: 1173740
+read_bytes: 16711073280
+write_bytes: 17994104832
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:23-08:00]
+rchar: 22247155865
+wchar: 18047786343
+syscr: 7977009
+syscw: 1182336
+read_bytes: 16776187392
+write_bytes: 18082480128
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:26-08:00]
+rchar: 22359255349
+wchar: 18129865036
+syscr: 8018791
+syscw: 1190593
+read_bytes: 16833801728
+write_bytes: 18164797440
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:29-08:00]
+rchar: 22527413346
+wchar: 18202795225
+syscr: 8081397
+syscw: 1201462
+read_bytes: 16920145408
+write_bytes: 18238078976
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:32-08:00]
+rchar: 22613052200
+wchar: 18308511776
+syscr: 8113793
+syscw: 1208165
+read_bytes: 16966393344
+write_bytes: 18343985152
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:35-08:00]
+rchar: 22800362759
+wchar: 18412632184
+syscr: 8183529
+syscw: 1218106
+read_bytes: 17067068928
+write_bytes: 18448334848
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:38-08:00]
+rchar: 22940626259
+wchar: 18522039161
+syscr: 8235591
+syscw: 1226822
+read_bytes: 17136320000
+write_bytes: 18558050304
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:41-08:00]
+rchar: 23062493408
+wchar: 18606634635
+syscr: 8280914
+syscw: 1235332
+read_bytes: 17197297152
+write_bytes: 18642919424
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:44-08:00]
+rchar: 23245095864
+wchar: 18684211845
+syscr: 8348574
+syscw: 1246563
+read_bytes: 17288011264
+write_bytes: 18720837632
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:47-08:00]
+rchar: 23339832517
+wchar: 18793464079
+syscr: 8383619
+syscw: 1253900
+read_bytes: 17336204800
+write_bytes: 18830299136
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:50-08:00]
+rchar: 23493449335
+wchar: 18876799853
+syscr: 8441359
+syscw: 1262767
+read_bytes: 17416080896
+write_bytes: 18913964032
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:53-08:00]
+rchar: 23640441423
+wchar: 18961085699
+syscr: 8496715
+syscw: 1272072
+read_bytes: 17491803648
+write_bytes: 18998550528
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:56-08:00]
+rchar: 23744382803
+wchar: 19073624059
+syscr: 8535389
+syscw: 1280341
+read_bytes: 17542536704
+write_bytes: 19111321600
+cancelled_write_bytes: 0
+
+[2020-02-14T18:43:59-08:00]
+rchar: 23905633432
+wchar: 19157331329
+syscr: 8594951
+syscw: 1290316
+read_bytes: 17622429184
+write_bytes: 19195265024
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:02-08:00]
+rchar: 24074871821
+wchar: 19245057867
+syscr: 8657859
+syscw: 1299792
+read_bytes: 17706049024
+write_bytes: 19283341312
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:05-08:00]
+rchar: 24177065557
+wchar: 19356725639
+syscr: 8695321
+syscw: 1307605
+read_bytes: 17758084608
+write_bytes: 19395248128
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:08-08:00]
+rchar: 24336361193
+wchar: 19423080931
+syscr: 8754111
+syscw: 1317291
+read_bytes: 17836191232
+write_bytes: 19461877760
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:11-08:00]
+rchar: 24472471857
+wchar: 19518119912
+syscr: 8804694
+syscw: 1325934
+read_bytes: 17903586816
+write_bytes: 19557236736
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:14-08:00]
+rchar: 24614540255
+wchar: 19629965365
+syscr: 8856511
+syscw: 1335070
+read_bytes: 17972452864
+write_bytes: 19669315584
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:17-08:00]
+rchar: 24820508722
+wchar: 19728336137
+syscr: 8932089
+syscw: 1345495
+read_bytes: 18070834688
+write_bytes: 19768012800
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:20-08:00]
+rchar: 24945661939
+wchar: 19847082445
+syscr: 8977721
+syscw: 1353290
+read_bytes: 18130169344
+write_bytes: 19886985216
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:23-08:00]
+rchar: 25099141630
+wchar: 19942692478
+syscr: 9033817
+syscw: 1362307
+read_bytes: 18203332096
+write_bytes: 19982897152
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:26-08:00]
+rchar: 25258591986
+wchar: 20043402426
+syscr: 9092745
+syscw: 1372263
+read_bytes: 18283126272
+write_bytes: 20083912704
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:29-08:00]
+rchar: 25365505125
+wchar: 20124660524
+syscr: 9132455
+syscw: 1379878
+read_bytes: 18335571456
+write_bytes: 20165398528
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:32-08:00]
+rchar: 25534844277
+wchar: 20192641480
+syscr: 9194657
+syscw: 1389391
+read_bytes: 18414857728
+write_bytes: 20233699328
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:35-08:00]
+rchar: 25676618646
+wchar: 20317764909
+syscr: 9246903
+syscw: 1397572
+read_bytes: 18483064320
+write_bytes: 20359098368
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:38-08:00]
+rchar: 25885243052
+wchar: 20447871403
+syscr: 9321705
+syscw: 1407698
+read_bytes: 18583297536
+write_bytes: 20489420800
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:41-08:00]
+rchar: 26112025047
+wchar: 20586713880
+syscr: 9402904
+syscw: 1418319
+read_bytes: 18694409728
+write_bytes: 20628557824
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:44-08:00]
+rchar: 26237896216
+wchar: 20672918112
+syscr: 9449202
+syscw: 1426404
+read_bytes: 18752429568
+write_bytes: 20714971136
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:47-08:00]
+rchar: 26357975241
+wchar: 20758648516
+syscr: 9493547
+syscw: 1434341
+read_bytes: 18807913984
+write_bytes: 20801024000
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:50-08:00]
+rchar: 26581467427
+wchar: 20878834769
+syscr: 9575082
+syscw: 1443487
+read_bytes: 18910420480
+write_bytes: 20921356288
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:53-08:00]
+rchar: 26878737169
+wchar: 21026793617
+syscr: 9683267
+syscw: 1449371
+read_bytes: 19047919104
+write_bytes: 21069348864
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:56-08:00]
+rchar: 27031851185
+wchar: 21172748098
+syscr: 9738391
+syscw: 1458188
+read_bytes: 19115200000
+write_bytes: 21215592448
+cancelled_write_bytes: 0
+
+[2020-02-14T18:44:59-08:00]
+rchar: 27177174538
+wchar: 21244609148
+syscr: 9790799
+syscw: 1467187
+read_bytes: 19175251456
+write_bytes: 21287747584
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:02-08:00]
+rchar: 27346856139
+wchar: 21342607260
+syscr: 9851955
+syscw: 1476117
+read_bytes: 19247635968
+write_bytes: 21386027008
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:05-08:00]
+rchar: 27484890344
+wchar: 21429030968
+syscr: 9901716
+syscw: 1485101
+read_bytes: 19308105216
+write_bytes: 21472702464
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:08-08:00]
+rchar: 27674626256
+wchar: 21536415662
+syscr: 9970239
+syscw: 1495697
+read_bytes: 19391655424
+write_bytes: 21580398592
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:11-08:00]
+rchar: 27809617261
+wchar: 21624616328
+syscr: 10019811
+syscw: 1503493
+read_bytes: 19453017600
+write_bytes: 21668798464
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:14-08:00]
+rchar: 28002973147
+wchar: 21737096686
+syscr: 10090649
+syscw: 1513865
+read_bytes: 19538316800
+write_bytes: 21781610496
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:17-08:00]
+rchar: 28135222237
+wchar: 21857482103
+syscr: 10139011
+syscw: 1523032
+read_bytes: 19596299776
+write_bytes: 21902274560
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:20-08:00]
+rchar: 28304131953
+wchar: 21922339627
+syscr: 10200419
+syscw: 1532252
+read_bytes: 19670978048
+write_bytes: 21967425536
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:23-08:00]
+rchar: 28480768865
+wchar: 22026329848
+syscr: 10264468
+syscw: 1541863
+read_bytes: 19748163072
+write_bytes: 22071689216
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:26-08:00]
+rchar: 28639530864
+wchar: 22159533569
+syscr: 10323038
+syscw: 1552096
+read_bytes: 19820928512
+write_bytes: 22205190144
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:29-08:00]
+rchar: 28783067078
+wchar: 22255271193
+syscr: 10375967
+syscw: 1561390
+read_bytes: 19886325248
+write_bytes: 22301261824
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:32-08:00]
+rchar: 28922450302
+wchar: 22343448347
+syscr: 10426717
+syscw: 1570518
+read_bytes: 19945152000
+write_bytes: 22389645312
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:35-08:00]
+rchar: 29148333302
+wchar: 22449412854
+syscr: 10509166
+syscw: 1582222
+read_bytes: 20044189184
+write_bytes: 22495965184
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:38-08:00]
+rchar: 29289829878
+wchar: 22555771404
+syscr: 10560532
+syscw: 1590711
+read_bytes: 20106534400
+write_bytes: 22602604544
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:41-08:00]
+rchar: 29434368087
+wchar: 22646473655
+syscr: 10613364
+syscw: 1600145
+read_bytes: 20171632128
+write_bytes: 22693531648
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:44-08:00]
+rchar: 29645917482
+wchar: 22765429561
+syscr: 10691256
+syscw: 1610440
+read_bytes: 20264812032
+write_bytes: 22812774400
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:47-08:00]
+rchar: 29772207409
+wchar: 22852447396
+syscr: 10737804
+syscw: 1619243
+read_bytes: 20319587840
+write_bytes: 22900154368
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:50-08:00]
+rchar: 29939686418
+wchar: 22952155585
+syscr: 10799010
+syscw: 1629516
+read_bytes: 20391980544
+write_bytes: 23000162304
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:53-08:00]
+rchar: 30143910214
+wchar: 23081837076
+syscr: 10871510
+syscw: 1637890
+read_bytes: 20485656064
+write_bytes: 23130066944
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:56-08:00]
+rchar: 30381983420
+wchar: 23227553387
+syscr: 10957343
+syscw: 1650122
+read_bytes: 20591951360
+write_bytes: 23276081152
+cancelled_write_bytes: 0
+
+[2020-02-14T18:45:59-08:00]
+rchar: 30515474519
+wchar: 23330628369
+syscr: 11005559
+syscw: 1658648
+read_bytes: 20647751168
+write_bytes: 23379382272
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:02-08:00]
+rchar: 30669937963
+wchar: 23422550769
+syscr: 11060881
+syscw: 1667558
+read_bytes: 20709670400
+write_bytes: 23471558656
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:05-08:00]
+rchar: 30882984645
+wchar: 23538349826
+syscr: 11137220
+syscw: 1677921
+read_bytes: 20798324224
+write_bytes: 23587676160
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:08-08:00]
+rchar: 31007127861
+wchar: 23621883565
+syscr: 11182604
+syscw: 1685962
+read_bytes: 20851011072
+write_bytes: 23671406592
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:11-08:00]
+rchar: 31220600678
+wchar: 23742858176
+syscr: 11261482
+syscw: 1697288
+read_bytes: 20943310336
+write_bytes: 23792689152
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:14-08:00]
+rchar: 31339171771
+wchar: 23829353203
+syscr: 11306053
+syscw: 1705871
+read_bytes: 20992893440
+write_bytes: 23879794688
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:17-08:00]
+rchar: 31475309304
+wchar: 23919250616
+syscr: 11356098
+syscw: 1714686
+read_bytes: 21051425280
+write_bytes: 23970250752
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:20-08:00]
+rchar: 31666645061
+wchar: 24029207863
+syscr: 11426071
+syscw: 1725678
+read_bytes: 21133021696
+write_bytes: 24080560128
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:23-08:00]
+rchar: 31807758580
+wchar: 24120397757
+syscr: 11477152
+syscw: 1734851
+read_bytes: 21194744320
+write_bytes: 24172023808
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:26-08:00]
+rchar: 31986420532
+wchar: 24227134308
+syscr: 11542673
+syscw: 1744536
+read_bytes: 21267223040
+write_bytes: 24279048192
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:29-08:00]
+rchar: 32146835963
+wchar: 24346112885
+syscr: 11602284
+syscw: 1754395
+read_bytes: 21337784832
+write_bytes: 24398311424
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:32-08:00]
+rchar: 32250776139
+wchar: 24443952531
+syscr: 11641262
+syscw: 1762402
+read_bytes: 21381616128
+write_bytes: 24496746496
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:35-08:00]
+rchar: 32364127253
+wchar: 24492842711
+syscr: 11683446
+syscw: 1769957
+read_bytes: 21431419392
+write_bytes: 24546004992
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:38-08:00]
+rchar: 32530833078
+wchar: 24595142064
+syscr: 11744527
+syscw: 1780355
+read_bytes: 21503275520
+write_bytes: 24648634368
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:42-08:00]
+rchar: 32701505872
+wchar: 24698110165
+syscr: 11806661
+syscw: 1790093
+read_bytes: 21577769472
+write_bytes: 24751910912
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:45-08:00]
+rchar: 32832128628
+wchar: 24804222581
+syscr: 11854937
+syscw: 1799809
+read_bytes: 21634298368
+write_bytes: 24858324992
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:48-08:00]
+rchar: 33008652274
+wchar: 24895079217
+syscr: 11920444
+syscw: 1809462
+read_bytes: 21711077888
+write_bytes: 24949395456
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:51-08:00]
+rchar: 33157355243
+wchar: 24997501039
+syscr: 11976058
+syscw: 1819467
+read_bytes: 21774242304
+write_bytes: 25052549120
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:54-08:00]
+rchar: 33281499819
+wchar: 25084477792
+syscr: 12021849
+syscw: 1826641
+read_bytes: 21826294272
+write_bytes: 25139781632
+cancelled_write_bytes: 0
+
+[2020-02-14T18:46:57-08:00]
+rchar: 33452923572
+wchar: 25205429086
+syscr: 12084607
+syscw: 1837175
+read_bytes: 21897986560
+write_bytes: 25261023232
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:00-08:00]
+rchar: 33618495384
+wchar: 25324425601
+syscr: 12144768
+syscw: 1847024
+read_bytes: 21970051584
+write_bytes: 25380294656
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:03-08:00]
+rchar: 33754913134
+wchar: 25415824664
+syscr: 12195185
+syscw: 1855212
+read_bytes: 22029488640
+write_bytes: 25471938560
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:06-08:00]
+rchar: 33951019969
+wchar: 25532199642
+syscr: 12268342
+syscw: 1865692
+read_bytes: 22112084480
+write_bytes: 25588699136
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:09-08:00]
+rchar: 34190058339
+wchar: 25702182816
+syscr: 12346371
+syscw: 1870772
+read_bytes: 22222311936
+write_bytes: 25758883840
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:12-08:00]
+rchar: 34502984195
+wchar: 25971032139
+syscr: 12450186
+syscw: 1878930
+read_bytes: 22368936448
+write_bytes: 26027814912
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:15-08:00]
+rchar: 34758216257
+wchar: 26193352281
+syscr: 12535065
+syscw: 1886313
+read_bytes: 22480167424
+write_bytes: 26250305536
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:18-08:00]
+rchar: 34934584961
+wchar: 26295351844
+syscr: 12597950
+syscw: 1895761
+read_bytes: 22549303808
+write_bytes: 26352504832
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:21-08:00]
+rchar: 35097165905
+wchar: 26393435409
+syscr: 12656450
+syscw: 1905244
+read_bytes: 22610506240
+write_bytes: 26450829312
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:24-08:00]
+rchar: 35295823877
+wchar: 26536928978
+syscr: 12727665
+syscw: 1915411
+read_bytes: 22685032960
+write_bytes: 26594615296
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:27-08:00]
+rchar: 35468611239
+wchar: 26636950312
+syscr: 12789327
+syscw: 1925270
+read_bytes: 22749962752
+write_bytes: 26694897664
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:30-08:00]
+rchar: 35636376120
+wchar: 26735371774
+syscr: 12849364
+syscw: 1934624
+read_bytes: 22814671360
+write_bytes: 26793529344
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:33-08:00]
+rchar: 35852592054
+wchar: 26853629908
+syscr: 12927482
+syscw: 1946065
+read_bytes: 22898631168
+write_bytes: 26912096256
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:36-08:00]
+rchar: 36058255252
+wchar: 26938433402
+syscr: 12997992
+syscw: 1954042
+read_bytes: 22982021632
+write_bytes: 27013685248
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:39-08:00]
+rchar: 36337157977
+wchar: 27219513444
+syscr: 13089793
+syscw: 1960722
+read_bytes: 23102779904
+write_bytes: 27278491648
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:42-08:00]
+rchar: 36577702598
+wchar: 27448235358
+syscr: 13170618
+syscw: 1968598
+read_bytes: 23202693632
+write_bytes: 27507343360
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:45-08:00]
+rchar: 36715959009
+wchar: 27534900768
+syscr: 13220664
+syscw: 1977298
+read_bytes: 23253344768
+write_bytes: 27594252288
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:48-08:00]
+rchar: 36901290724
+wchar: 27638870421
+syscr: 13287490
+syscw: 1987875
+read_bytes: 23318962688
+write_bytes: 27698511872
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:51-08:00]
+rchar: 37086719272
+wchar: 27743274467
+syscr: 13353623
+syscw: 1997943
+read_bytes: 23385575936
+write_bytes: 27803189248
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:54-08:00]
+rchar: 37292650569
+wchar: 27853151112
+syscr: 13427080
+syscw: 2008396
+read_bytes: 23459705344
+write_bytes: 27913334784
+cancelled_write_bytes: 0
+
+[2020-02-14T18:47:57-08:00]
+rchar: 37472756371
+wchar: 27954060518
+syscr: 13491215
+syscw: 2018920
+read_bytes: 23522165248
+write_bytes: 28014522368
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:00-08:00]
+rchar: 37648714971
+wchar: 28053182191
+syscr: 13553858
+syscw: 2029316
+read_bytes: 23581442560
+write_bytes: 28113870848
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:03-08:00]
+rchar: 37824868344
+wchar: 28153178263
+syscr: 13616358
+syscw: 2039835
+read_bytes: 23642604032
+write_bytes: 28214124544
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:06-08:00]
+rchar: 38049831793
+wchar: 28272293147
+syscr: 13697325
+syscw: 2050582
+read_bytes: 23724773888
+write_bytes: 28333563904
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:09-08:00]
+rchar: 38166596400
+wchar: 28376497569
+syscr: 13739327
+syscw: 2055645
+read_bytes: 23765086720
+write_bytes: 28438208512
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:12-08:00]
+rchar: 38504762611
+wchar: 28570287558
+syscr: 13849359
+syscw: 2064220
+read_bytes: 23904338432
+write_bytes: 28632182784
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:15-08:00]
+rchar: 38907281496
+wchar: 28939604681
+syscr: 13980724
+syscw: 2073921
+read_bytes: 24071672320
+write_bytes: 29017071616
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:18-08:00]
+rchar: 39114693885
+wchar: 29137400750
+syscr: 14049206
+syscw: 2080918
+read_bytes: 24154051072
+write_bytes: 29199466496
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:21-08:00]
+rchar: 39329073260
+wchar: 29339736582
+syscr: 14119621
+syscw: 2086949
+read_bytes: 24240734720
+write_bytes: 29402021888
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:24-08:00]
+rchar: 39509648146
+wchar: 29467369524
+syscr: 14180385
+syscw: 2094058
+read_bytes: 24308376064
+write_bytes: 29529845760
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:27-08:00]
+rchar: 39626832015
+wchar: 29585447208
+syscr: 14221676
+syscw: 2101464
+read_bytes: 24347390464
+write_bytes: 29648195584
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:30-08:00]
+rchar: 39758361091
+wchar: 29670672577
+syscr: 14268881
+syscw: 2110685
+read_bytes: 24391336448
+write_bytes: 29733691392
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:33-08:00]
+rchar: 39986248290
+wchar: 29770406966
+syscr: 14350167
+syscw: 2122491
+read_bytes: 24463163904
+write_bytes: 29833756672
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:36-08:00]
+rchar: 40225621398
+wchar: 29907745975
+syscr: 14435268
+syscw: 2134794
+read_bytes: 24540516864
+write_bytes: 29971406848
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:39-08:00]
+rchar: 40400018050
+wchar: 30004901400
+syscr: 14497056
+syscw: 2145897
+read_bytes: 24598143488
+write_bytes: 30068822016
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:42-08:00]
+rchar: 40575416820
+wchar: 30102823247
+syscr: 14559203
+syscw: 2156436
+read_bytes: 24655950336
+write_bytes: 30166999040
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:45-08:00]
+rchar: 40792909544
+wchar: 30237147611
+syscr: 14637911
+syscw: 2168989
+read_bytes: 24727347712
+write_bytes: 30301638656
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:48-08:00]
+rchar: 41004976609
+wchar: 30340203536
+syscr: 14710926
+syscw: 2177268
+read_bytes: 24798581248
+write_bytes: 30405128192
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:51-08:00]
+rchar: 41234279815
+wchar: 30561251831
+syscr: 14786961
+syscw: 2184073
+read_bytes: 24885883392
+write_bytes: 30626336768
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:54-08:00]
+rchar: 41555191286
+wchar: 30798988104
+syscr: 14893060
+syscw: 2192192
+read_bytes: 25009476096
+write_bytes: 30864273408
+cancelled_write_bytes: 0
+
+[2020-02-14T18:48:57-08:00]
+rchar: 41778490247
+wchar: 30994723237
+syscr: 14969469
+syscw: 2200696
+read_bytes: 25086722560
+write_bytes: 31060213760
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:00-08:00]
+rchar: 41960890377
+wchar: 31093705373
+syscr: 15034510
+syscw: 2209437
+read_bytes: 25143390720
+write_bytes: 31159455744
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:03-08:00]
+rchar: 42134274441
+wchar: 31193296760
+syscr: 15096364
+syscw: 2220331
+read_bytes: 25196515840
+write_bytes: 31259287552
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:06-08:00]
+rchar: 42326133700
+wchar: 31302061899
+syscr: 15163865
+syscw: 2229434
+read_bytes: 25256096256
+write_bytes: 31368265728
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:09-08:00]
+rchar: 42545696780
+wchar: 31463599986
+syscr: 15241349
+syscw: 2236442
+read_bytes: 25322668544
+write_bytes: 31530807296
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:12-08:00]
+rchar: 42677609230
+wchar: 31564967231
+syscr: 15288224
+syscw: 2245814
+read_bytes: 25363223040
+write_bytes: 31632609280
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:15-08:00]
+rchar: 42876541685
+wchar: 31639498995
+syscr: 15359299
+syscw: 2256125
+read_bytes: 25426469376
+write_bytes: 31707377664
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:18-08:00]
+rchar: 43102363971
+wchar: 31796580499
+syscr: 15441491
+syscw: 2268267
+read_bytes: 25500144128
+write_bytes: 31864709120
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:21-08:00]
+rchar: 43239272636
+wchar: 31860823866
+syscr: 15489886
+syscw: 2272923
+read_bytes: 25541980672
+write_bytes: 31929434112
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:24-08:00]
+rchar: 43637747749
+wchar: 32181012815
+syscr: 15618298
+syscw: 2280881
+read_bytes: 25686467072
+write_bytes: 32249782272
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:27-08:00]
+rchar: 43966737104
+wchar: 32454694341
+syscr: 15724010
+syscw: 2286758
+read_bytes: 25809351168
+write_bytes: 32523624448
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:30-08:00]
+rchar: 44068511865
+wchar: 32591308186
+syscr: 15757977
+syscw: 2291473
+read_bytes: 25846010368
+write_bytes: 32660496384
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:33-08:00]
+rchar: 44318084653
+wchar: 32759890551
+syscr: 15839841
+syscw: 2298354
+read_bytes: 25931313664
+write_bytes: 32829313024
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:36-08:00]
+rchar: 44563918374
+wchar: 32982607261
+syscr: 15920471
+syscw: 2305139
+read_bytes: 26016723456
+write_bytes: 33052160000
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:39-08:00]
+rchar: 44764199698
+wchar: 33148048536
+syscr: 15987857
+syscw: 2313081
+read_bytes: 26080944640
+write_bytes: 33217789952
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:42-08:00]
+rchar: 44938716089
+wchar: 33283345638
+syscr: 16048045
+syscw: 2321784
+read_bytes: 26134045184
+write_bytes: 33353351168
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:45-08:00]
+rchar: 45127194997
+wchar: 33387728579
+syscr: 16114789
+syscw: 2332549
+read_bytes: 26188435968
+write_bytes: 33457958912
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:48-08:00]
+rchar: 45308487391
+wchar: 33488526735
+syscr: 16180470
+syscw: 2340681
+read_bytes: 26235814400
+write_bytes: 33568370688
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:51-08:00]
+rchar: 45447082136
+wchar: 33610693972
+syscr: 16229643
+syscw: 2349085
+read_bytes: 26276319744
+write_bytes: 33682690048
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:54-08:00]
+rchar: 45717374686
+wchar: 33777400324
+syscr: 16321458
+syscw: 2358709
+read_bytes: 26365997568
+write_bytes: 33849577472
+cancelled_write_bytes: 0
+
+[2020-02-14T18:49:57-08:00]
+rchar: 45929759459
+wchar: 33892870117
+syscr: 16396622
+syscw: 2371192
+read_bytes: 26428891648
+write_bytes: 33965326336
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:00-08:00]
+rchar: 46061087879
+wchar: 34004044287
+syscr: 16445332
+syscw: 2375733
+read_bytes: 26465858048
+write_bytes: 34077114368
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:03-08:00]
+rchar: 46291396817
+wchar: 34089853240
+syscr: 16521291
+syscw: 2382000
+read_bytes: 26546766336
+write_bytes: 34163372032
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:06-08:00]
+rchar: 46494051325
+wchar: 34299806027
+syscr: 16590213
+syscw: 2389398
+read_bytes: 26616197632
+write_bytes: 34373586944
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:09-08:00]
+rchar: 46578813507
+wchar: 34359397809
+syscr: 16619606
+syscw: 2394026
+read_bytes: 26646643200
+write_bytes: 34433830912
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:12-08:00]
+rchar: 46687041830
+wchar: 34427277794
+syscr: 16657005
+syscw: 2399393
+read_bytes: 26683367936
+write_bytes: 34502115328
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:15-08:00]
+rchar: 46892195211
+wchar: 34598916506
+syscr: 16725561
+syscw: 2406832
+read_bytes: 26752090624
+write_bytes: 34674008064
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:18-08:00]
+rchar: 47138281482
+wchar: 34842990769
+syscr: 16807695
+syscw: 2415371
+read_bytes: 26833777152
+write_bytes: 34918322176
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:21-08:00]
+rchar: 47406468243
+wchar: 35079638987
+syscr: 16897699
+syscw: 2425047
+read_bytes: 26921607680
+write_bytes: 35155189760
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:24-08:00]
+rchar: 47549410015
+wchar: 35235800198
+syscr: 16947514
+syscw: 2432811
+read_bytes: 26965688832
+write_bytes: 35311644672
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:27-08:00]
+rchar: 47778966774
+wchar: 35344241213
+syscr: 17029846
+syscw: 2443795
+read_bytes: 27031306752
+write_bytes: 35420258304
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:30-08:00]
+rchar: 47895687338
+wchar: 35426668961
+syscr: 17071989
+syscw: 2446450
+read_bytes: 27064844800
+write_bytes: 35503349760
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:33-08:00]
+rchar: 48130904945
+wchar: 35591720204
+syscr: 17146383
+syscw: 2449359
+read_bytes: 27149931008
+write_bytes: 35683885056
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:36-08:00]
+rchar: 48474455559
+wchar: 35926902887
+syscr: 17258455
+syscw: 2457288
+read_bytes: 27272688128
+write_bytes: 36003897344
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:39-08:00]
+rchar: 48606595486
+wchar: 35972920019
+syscr: 17303280
+syscw: 2462072
+read_bytes: 27312861696
+write_bytes: 36050247680
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:42-08:00]
+rchar: 48713090377
+wchar: 36070577855
+syscr: 17339764
+syscw: 2467378
+read_bytes: 27347526144
+write_bytes: 36148441088
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:45-08:00]
+rchar: 48815890639
+wchar: 36191271459
+syscr: 17374849
+syscw: 2472082
+read_bytes: 27381064192
+write_bytes: 36269498368
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:48-08:00]
+rchar: 49144187698
+wchar: 36492379896
+syscr: 17482350
+syscw: 2481456
+read_bytes: 27487019520
+write_bytes: 36570877952
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:51-08:00]
+rchar: 49250911118
+wchar: 36600384066
+syscr: 17518988
+syscw: 2487721
+read_bytes: 27518063104
+write_bytes: 36679102464
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:54-08:00]
+rchar: 49449468173
+wchar: 36773893687
+syscr: 17587193
+syscw: 2496627
+read_bytes: 27577790976
+write_bytes: 36852895744
+cancelled_write_bytes: 0
+
+[2020-02-14T18:50:57-08:00]
+rchar: 49627646156
+wchar: 36901964303
+syscr: 17651302
+syscw: 2508455
+read_bytes: 27625226752
+write_bytes: 36981272576
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:00-08:00]
+rchar: 49836182050
+wchar: 37018743399
+syscr: 17726692
+syscw: 2521097
+read_bytes: 27681743360
+write_bytes: 37098315776
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:03-08:00]
+rchar: 50046279751
+wchar: 37139442206
+syscr: 17803533
+syscw: 2533598
+read_bytes: 27738223104
+write_bytes: 37219241984
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:06-08:00]
+rchar: 50188074539
+wchar: 37246180029
+syscr: 17855799
+syscw: 2543143
+read_bytes: 27774935552
+write_bytes: 37326721024
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:09-08:00]
+rchar: 50324444131
+wchar: 37347421708
+syscr: 17904339
+syscw: 2551731
+read_bytes: 27812602368
+write_bytes: 37428363264
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:12-08:00]
+rchar: 50547423592
+wchar: 37511220199
+syscr: 17983732
+syscw: 2558516
+read_bytes: 27869573632
+write_bytes: 37593456640
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:15-08:00]
+rchar: 50644630355
+wchar: 37606966941
+syscr: 18019234
+syscw: 2566985
+read_bytes: 27896967680
+write_bytes: 37689827328
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:18-08:00]
+rchar: 50813109553
+wchar: 37694418770
+syscr: 18080382
+syscw: 2577064
+read_bytes: 27944776192
+write_bytes: 37777518592
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:21-08:00]
+rchar: 51035289518
+wchar: 37811562503
+syscr: 18160362
+syscw: 2586051
+read_bytes: 28006040064
+write_bytes: 37895114752
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:24-08:00]
+rchar: 51253067308
+wchar: 37906289209
+syscr: 18231671
+syscw: 2591993
+read_bytes: 28073812480
+write_bytes: 37990154240
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:27-08:00]
+rchar: 51467354428
+wchar: 38101201616
+syscr: 18302109
+syscw: 2598299
+read_bytes: 28141625856
+write_bytes: 38185345024
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:30-08:00]
+rchar: 51785158895
+wchar: 38338649129
+syscr: 18404260
+syscw: 2605939
+read_bytes: 28243665408
+write_bytes: 38422900736
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:33-08:00]
+rchar: 51985718255
+wchar: 38546279155
+syscr: 18469004
+syscw: 2611417
+read_bytes: 28307685888
+write_bytes: 38630629376
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:36-08:00]
+rchar: 52259712580
+wchar: 38810858700
+syscr: 18556884
+syscw: 2618585
+read_bytes: 28392727040
+write_bytes: 38895403008
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:39-08:00]
+rchar: 52402426493
+wchar: 38948844019
+syscr: 18603414
+syscw: 2623988
+read_bytes: 28435788288
+write_bytes: 39033643008
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:42-08:00]
+rchar: 52581979833
+wchar: 39119232490
+syscr: 18662495
+syscw: 2630559
+read_bytes: 28487434752
+write_bytes: 39204220928
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:45-08:00]
+rchar: 52744244609
+wchar: 39277063561
+syscr: 18716204
+syscw: 2637254
+read_bytes: 28531757568
+write_bytes: 39362306048
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:48-08:00]
+rchar: 52869757146
+wchar: 39425656262
+syscr: 18758939
+syscw: 2644152
+read_bytes: 28564763136
+write_bytes: 39511150592
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:51-08:00]
+rchar: 53004373873
+wchar: 39552883463
+syscr: 18805731
+syscw: 2652748
+read_bytes: 28598071808
+write_bytes: 39638675456
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:54-08:00]
+rchar: 53314744142
+wchar: 39761112937
+syscr: 18914418
+syscw: 2664310
+read_bytes: 28671443456
+write_bytes: 39847194624
+cancelled_write_bytes: 0
+
+[2020-02-14T18:51:57-08:00]
+rchar: 53428227337
+wchar: 39834301741
+syscr: 18955811
+syscw: 2671309
+read_bytes: 28699472384
+write_bytes: 39921201152
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:00-08:00]
+rchar: 53555090470
+wchar: 39902606184
+syscr: 18999937
+syscw: 2678240
+read_bytes: 28731580928
+write_bytes: 39990210560
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:03-08:00]
+rchar: 53870097251
+wchar: 40169097698
+syscr: 19103769
+syscw: 2688198
+read_bytes: 28818522624
+write_bytes: 40256950272
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:06-08:00]
+rchar: 54177935359
+wchar: 40412817848
+syscr: 19207372
+syscw: 2699357
+read_bytes: 28899860992
+write_bytes: 40500981760
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:09-08:00]
+rchar: 54397201013
+wchar: 40593015210
+syscr: 19280460
+syscw: 2707140
+read_bytes: 28957684224
+write_bytes: 40681377792
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:12-08:00]
+rchar: 54563482648
+wchar: 40743620464
+syscr: 19338334
+syscw: 2716307
+read_bytes: 28994531840
+write_bytes: 40832221184
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:15-08:00]
+rchar: 54814522355
+wchar: 40895354597
+syscr: 19425174
+syscw: 2726941
+read_bytes: 29049786880
+write_bytes: 40984104960
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:18-08:00]
+rchar: 55004209183
+wchar: 41017351111
+syscr: 19492114
+syscw: 2738141
+read_bytes: 29087502848
+write_bytes: 41106284544
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:21-08:00]
+rchar: 55302526756
+wchar: 41160967217
+syscr: 19597954
+syscw: 2750807
+read_bytes: 29144281600
+write_bytes: 41250357248
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:24-08:00]
+rchar: 55428754300
+wchar: 41248416919
+syscr: 19643159
+syscw: 2756610
+read_bytes: 29173391872
+write_bytes: 41338621952
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:27-08:00]
+rchar: 55685236919
+wchar: 41411585088
+syscr: 19729986
+syscw: 2766773
+read_bytes: 29238780416
+write_bytes: 41502040064
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:30-08:00]
+rchar: 56060695513
+wchar: 41703398711
+syscr: 19855685
+syscw: 2779674
+read_bytes: 29338718720
+write_bytes: 41793978368
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:33-08:00]
+rchar: 56141984565
+wchar: 41841335978
+syscr: 19884089
+syscw: 2783269
+read_bytes: 29357957632
+write_bytes: 41932333056
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:36-08:00]
+rchar: 56347521236
+wchar: 42001174043
+syscr: 19955582
+syscw: 2794015
+read_bytes: 29406093824
+write_bytes: 42092376064
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:39-08:00]
+rchar: 56695828238
+wchar: 42218221590
+syscr: 20071646
+syscw: 2804910
+read_bytes: 29494579712
+write_bytes: 42309558272
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:42-08:00]
+rchar: 56826335536
+wchar: 42367756372
+syscr: 20117217
+syscw: 2809500
+read_bytes: 29522371072
+write_bytes: 42459537408
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:45-08:00]
+rchar: 56963587024
+wchar: 42417339356
+syscr: 20165129
+syscw: 2815929
+read_bytes: 29554278912
+write_bytes: 42509824000
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:48-08:00]
+rchar: 57284691609
+wchar: 42693552406
+syscr: 20277659
+syscw: 2827467
+read_bytes: 29632414208
+write_bytes: 42786238464
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:51-08:00]
+rchar: 57378121552
+wchar: 42745473555
+syscr: 20309145
+syscw: 2829331
+read_bytes: 29655384576
+write_bytes: 42838495232
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:54-08:00]
+rchar: 57566151211
+wchar: 42855553311
+syscr: 20373016
+syscw: 2838331
+read_bytes: 29701157376
+write_bytes: 42948943872
+cancelled_write_bytes: 0
+
+[2020-02-14T18:52:57-08:00]
+rchar: 57775181167
+wchar: 43005192506
+syscr: 20443921
+syscw: 2848305
+read_bytes: 29748920832
+write_bytes: 43098959872
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:00-08:00]
+rchar: 57911974811
+wchar: 43148792536
+syscr: 20490880
+syscw: 2856337
+read_bytes: 29778436608
+write_bytes: 43242868736
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:03-08:00]
+rchar: 58103570985
+wchar: 43332681949
+syscr: 20555926
+syscw: 2866402
+read_bytes: 29822476800
+write_bytes: 43426971648
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:06-08:00]
+rchar: 58333665037
+wchar: 43497702646
+syscr: 20634304
+syscw: 2876940
+read_bytes: 29875282432
+write_bytes: 43592220672
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:09-08:00]
+rchar: 58689538548
+wchar: 43770329513
+syscr: 20754571
+syscw: 2890506
+read_bytes: 29952479744
+write_bytes: 43864977408
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:12-08:00]
+rchar: 58833873856
+wchar: 43898158795
+syscr: 20804909
+syscw: 2899997
+read_bytes: 29980353024
+write_bytes: 43993034752
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:15-08:00]
+rchar: 59062428260
+wchar: 44062406681
+syscr: 20884148
+syscw: 2911751
+read_bytes: 30027002368
+write_bytes: 44157526016
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:18-08:00]
+rchar: 59321121245
+wchar: 44205240981
+syscr: 20974220
+syscw: 2924059
+read_bytes: 30072037888
+write_bytes: 44300591104
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:21-08:00]
+rchar: 59529053124
+wchar: 44310439451
+syscr: 21049090
+syscw: 2932924
+read_bytes: 30108013056
+write_bytes: 44406734848
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:24-08:00]
+rchar: 59695194440
+wchar: 44437483475
+syscr: 21107003
+syscw: 2942215
+read_bytes: 30142837248
+write_bytes: 44550922240
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:27-08:00]
+rchar: 59863877576
+wchar: 44556804849
+syscr: 21165926
+syscw: 2951035
+read_bytes: 30177985024
+write_bytes: 44654112768
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:30-08:00]
+rchar: 60123404214
+wchar: 44772199814
+syscr: 21255760
+syscw: 2962111
+read_bytes: 30235095552
+write_bytes: 44869689344
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:33-08:00]
+rchar: 60293721903
+wchar: 44885937024
+syscr: 21316363
+syscw: 2972363
+read_bytes: 30268953088
+write_bytes: 44983619584
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:36-08:00]
+rchar: 60634769523
+wchar: 45133774140
+syscr: 21431212
+syscw: 2982379
+read_bytes: 30343082496
+write_bytes: 45231554560
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:39-08:00]
+rchar: 60824557875
+wchar: 45312755136
+syscr: 21496785
+syscw: 2986166
+read_bytes: 30381269504
+write_bytes: 45411160064
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:42-08:00]
+rchar: 61089630327
+wchar: 45435464661
+syscr: 21588415
+syscw: 2998214
+read_bytes: 30436094464
+write_bytes: 45534441472
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:45-08:00]
+rchar: 61381196157
+wchar: 45700452226
+syscr: 21688584
+syscw: 3010155
+read_bytes: 30498689536
+write_bytes: 45799571456
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:48-08:00]
+rchar: 61683740403
+wchar: 45932686939
+syscr: 21793278
+syscw: 3023280
+read_bytes: 30561047040
+write_bytes: 46031888384
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:51-08:00]
+rchar: 61796877395
+wchar: 46011785661
+syscr: 21833610
+syscw: 3024815
+read_bytes: 30585184768
+write_bytes: 46111608832
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:54-08:00]
+rchar: 61978833624
+wchar: 46118552380
+syscr: 21896373
+syscw: 3034687
+read_bytes: 30621061632
+write_bytes: 46218719232
+cancelled_write_bytes: 0
+
+[2020-02-14T18:53:57-08:00]
+rchar: 62250464798
+wchar: 46323405271
+syscr: 21988946
+syscw: 3046999
+read_bytes: 30679970304
+write_bytes: 46423855104
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:00-08:00]
+rchar: 62540926003
+wchar: 46546027779
+syscr: 22086520
+syscw: 3059598
+read_bytes: 30739038720
+write_bytes: 46646837248
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:03-08:00]
+rchar: 62705522745
+wchar: 46732976372
+syscr: 22143145
+syscw: 3068486
+read_bytes: 30768833024
+write_bytes: 46834028544
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:06-08:00]
+rchar: 62878293939
+wchar: 46835664959
+syscr: 22204321
+syscw: 3079701
+read_bytes: 30798488064
+write_bytes: 46937219072
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:10-08:00]
+rchar: 63060127157
+wchar: 46964617338
+syscr: 22268720
+syscw: 3089508
+read_bytes: 30829531648
+write_bytes: 47066365952
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:13-08:00]
+rchar: 63412577315
+wchar: 47236660095
+syscr: 22389135
+syscw: 3102737
+read_bytes: 30890131968
+write_bytes: 47338512384
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:16-08:00]
+rchar: 63743065714
+wchar: 47460169488
+syscr: 22501649
+syscw: 3115136
+read_bytes: 30947598848
+write_bytes: 47562256384
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:19-08:00]
+rchar: 63903581662
+wchar: 47603570176
+syscr: 22557455
+syscw: 3123944
+read_bytes: 30971077120
+write_bytes: 47705788416
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:22-08:00]
+rchar: 64211243598
+wchar: 47774634139
+syscr: 22663929
+syscw: 3132917
+read_bytes: 31015354880
+write_bytes: 47877021696
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:25-08:00]
+rchar: 64466531891
+wchar: 47934351489
+syscr: 22753561
+syscw: 3144160
+read_bytes: 31048675840
+write_bytes: 48036921344
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:28-08:00]
+rchar: 64732890868
+wchar: 48059198168
+syscr: 22847819
+syscw: 3156916
+read_bytes: 31083782656
+write_bytes: 48162439168
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:31-08:00]
+rchar: 64893711039
+wchar: 48161431912
+syscr: 22903968
+syscw: 3168487
+read_bytes: 31106695680
+write_bytes: 48265334784
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:34-08:00]
+rchar: 65067549391
+wchar: 48274455480
+syscr: 22968045
+syscw: 3180500
+read_bytes: 31132312064
+write_bytes: 48378884096
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:37-08:00]
+rchar: 65309720600
+wchar: 48390073923
+syscr: 23052615
+syscw: 3191746
+read_bytes: 31176352256
+write_bytes: 48495087616
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:40-08:00]
+rchar: 65496508692
+wchar: 48548470161
+syscr: 23116414
+syscw: 3199913
+read_bytes: 31210971648
+write_bytes: 48653717504
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:43-08:00]
+rchar: 65699380282
+wchar: 48714321809
+syscr: 23187899
+syscw: 3212599
+read_bytes: 31245242880
+write_bytes: 48819929088
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:46-08:00]
+rchar: 65869494510
+wchar: 48861526727
+syscr: 23247707
+syscw: 3220425
+read_bytes: 31273112064
+write_bytes: 48967860224
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:49-08:00]
+rchar: 66133202993
+wchar: 49016682313
+syscr: 23338589
+syscw: 3232496
+read_bytes: 31314874880
+write_bytes: 49123319808
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:52-08:00]
+rchar: 66241108533
+wchar: 49117883870
+syscr: 23377810
+syscw: 3235981
+read_bytes: 31332946432
+write_bytes: 49225342976
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:55-08:00]
+rchar: 66413377488
+wchar: 49252095393
+syscr: 23437301
+syscw: 3242740
+read_bytes: 31363478016
+write_bytes: 49360191488
+cancelled_write_bytes: 0
+
+[2020-02-14T18:54:58-08:00]
+rchar: 66718555883
+wchar: 49478588779
+syscr: 23540704
+syscw: 3254517
+read_bytes: 31415783936
+write_bytes: 49586860032
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:01-08:00]
+rchar: 66891681810
+wchar: 49622341765
+syscr: 23600621
+syscw: 3261732
+read_bytes: 31444316672
+write_bytes: 49730748416
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:04-08:00]
+rchar: 67215370877
+wchar: 49844587850
+syscr: 23711385
+syscw: 3273977
+read_bytes: 31495483904
+write_bytes: 49953169408
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:07-08:00]
+rchar: 67432338057
+wchar: 50066949918
+syscr: 23784220
+syscw: 3279204
+read_bytes: 31532474880
+write_bytes: 50175627264
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:10-08:00]
+rchar: 67736339660
+wchar: 50249606953
+syscr: 23888193
+syscw: 3291821
+read_bytes: 31578898944
+write_bytes: 50358501376
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:13-08:00]
+rchar: 67893978494
+wchar: 50371403150
+syscr: 23943879
+syscw: 3298191
+read_bytes: 31599231488
+write_bytes: 50480934912
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:16-08:00]
+rchar: 68089265384
+wchar: 50447728507
+syscr: 24011679
+syscw: 3307470
+read_bytes: 31629062656
+write_bytes: 50557976576
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:19-08:00]
+rchar: 68230046063
+wchar: 50564579076
+syscr: 24062233
+syscw: 3315960
+read_bytes: 31650185728
+write_bytes: 50675466240
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:22-08:00]
+rchar: 68355971327
+wchar: 50696027345
+syscr: 24106948
+syscw: 3323725
+read_bytes: 31668404736
+write_bytes: 50807463936
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:25-08:00]
+rchar: 68668312228
+wchar: 50854840498
+syscr: 24216203
+syscw: 3338018
+read_bytes: 31716266496
+write_bytes: 50966622208
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:28-08:00]
+rchar: 68782232103
+wchar: 51047300762
+syscr: 24255565
+syscw: 3344053
+read_bytes: 31734288896
+write_bytes: 51159400448
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:31-08:00]
+rchar: 68943123426
+wchar: 51138371487
+syscr: 24313174
+syscw: 3354776
+read_bytes: 31755506176
+write_bytes: 51250634752
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:34-08:00]
+rchar: 69276414295
+wchar: 51367498789
+syscr: 24429562
+syscw: 3367968
+read_bytes: 31800332800
+write_bytes: 51480117248
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:37-08:00]
+rchar: 69395694633
+wchar: 51485257377
+syscr: 24471872
+syscw: 3373859
+read_bytes: 31817245184
+write_bytes: 51598974976
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:40-08:00]
+rchar: 69605088501
+wchar: 51630561325
+syscr: 24545986
+syscw: 3388631
+read_bytes: 31844086272
+write_bytes: 51744612352
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:43-08:00]
+rchar: 69827285069
+wchar: 51767328313
+syscr: 24625336
+syscw: 3402813
+read_bytes: 31871873536
+write_bytes: 51881742336
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:46-08:00]
+rchar: 70146289355
+wchar: 51944385617
+syscr: 24734932
+syscw: 3414689
+read_bytes: 31920820736
+write_bytes: 52059045888
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:49-08:00]
+rchar: 70345795312
+wchar: 52156869868
+syscr: 24805176
+syscw: 3422184
+read_bytes: 31948108288
+write_bytes: 52271939584
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:52-08:00]
+rchar: 70429427821
+wchar: 52178261062
+syscr: 24831163
+syscw: 3422314
+read_bytes: 31965377024
+write_bytes: 52293795840
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:55-08:00]
+rchar: 70619145109
+wchar: 52370589364
+syscr: 24895411
+syscw: 3430625
+read_bytes: 31994024448
+write_bytes: 52486537216
+cancelled_write_bytes: 0
+
+[2020-02-14T18:55:58-08:00]
+rchar: 70929103484
+wchar: 52627518332
+syscr: 24998158
+syscw: 3441274
+read_bytes: 32046436864
+write_bytes: 52743593984
+cancelled_write_bytes: 0
+
+[2020-02-14T18:56:01-08:00]
+rchar: 71142097941
+wchar: 52797656607
+syscr: 25071866
+syscw: 3450502
+read_bytes: 32076272128
+write_bytes: 52914118656
+cancelled_write_bytes: 0
+
+[2020-02-14T18:56:04-08:00]
+rchar: 71363475839
+wchar: 52898688194
+syscr: 25151447
+syscw: 3462548
+read_bytes: 32105234944
+write_bytes: 53015633920
+cancelled_write_bytes: 0
+
+[2020-02-14T18:56:07-08:00]
+rchar: 71533982524
+wchar: 53065412260
+syscr: 25211311
+syscw: 3472491
+read_bytes: 32129233408
+write_bytes: 53182730240
+cancelled_write_bytes: 0
+
+[2020-02-14T18:56:10-08:00]
+rchar: 71724562785
+wchar: 53222310868
+syscr: 25278583
+syscw: 3482535
+read_bytes: 32154743296
+write_bytes: 53339959296
+cancelled_write_bytes: 0
+
+[2020-02-14T18:56:13-08:00]
+rchar: 71973691123
+wchar: 53364986010
+syscr: 25364533
+syscw: 3492923
+read_bytes: 32191455744
+write_bytes: 53482868736
+cancelled_write_bytes: 0
+
+[2020-02-14T18:56:16-08:00]
+rchar: 72099290152
+wchar: 53574455331
+syscr: 25408286
+syscw: 3498281
+read_bytes: 32209404416
+write_bytes: 53692588032
+cancelled_write_bytes: 0
+
+[2020-02-14T18:56:19-08:00]
+rchar: 72417558289
+wchar: 53775350883
+syscr: 25515650
+syscw: 3511138
+read_bytes: 32253239808
+write_bytes: 53893545984
+cancelled_write_bytes: 0
+
+[2020-02-14T18:56:22-08:00]
+rchar: 72683173485
+wchar: 53977871733
+syscr: 25605776
+syscw: 3525347
+read_bytes: 32288002560
+write_bytes: 54096388096
+cancelled_write_bytes: 0
+
+[2020-02-14T18:56:25-08:00]
+rchar: 72847057207
+wchar: 54154786508
+syscr: 25658253
+syscw: 3529964
+read_bytes: 32315212288
+write_bytes: 54273376256
+cancelled_write_bytes: 0
+
+[2020-02-14T18:56:28-08:00]
+rchar: 72934402691
+wchar: 54300362853
+syscr: 25685434
+syscw: 3531200
+read_bytes: 32332616192
+write_bytes: 54419349504
+cancelled_write_bytes: 0
+
+[2020-02-14T18:56:31-08:00]
+rchar: 72962730572
+wchar: 54344591038
+syscr: 25694117
+syscw: 3531334
+read_bytes: 32339022336
+write_bytes: 54464020480
+cancelled_write_bytes: 0
+
+[2020-02-14T18:56:34-08:00]
+rchar: 72962730573
+wchar: 54344698907
+syscr: 25694118
+syscw: 3531363
+read_bytes: 32339022336
+write_bytes: 54464143360
+cancelled_write_bytes: 0
+
+[2020-02-14T18:56:37-08:00]
+rchar: 72962730573
+wchar: 54344698907
+syscr: 25694118
+syscw: 3531363
+read_bytes: 32339022336
+write_bytes: 54464143360
+cancelled_write_bytes: 0
+
+[2020-02-14T18:56:40-08:00]
+rchar: 72962730573
+wchar: 54344698907
+syscr: 25694118
+syscw: 3531363
+read_bytes: 32339022336
+write_bytes: 54464143360
+cancelled_write_bytes: 0
+
+[2020-02-14T18:56:43-08:00]
+rchar: 72962730573
+wchar: 54344698907
+syscr: 25694118
+syscw: 3531363
+read_bytes: 32339022336
+write_bytes: 54464143360
+cancelled_write_bytes: 0
+
